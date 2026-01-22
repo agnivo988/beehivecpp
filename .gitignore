@@ -1,0 +1,66 @@
+# -------------------------
+# Build artifacts / binaries
+# -------------------------
+BeeHive3D.exe
+*.o
+*.obj
+*.a
+*.dll
+
+# -------------------------
+# VS / IDE files
+# -------------------------
+.vscode/
+*.code-workspace
+*.suo
+*.user
+*.ipch
+*.pch
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# -------------------------
+# CMake / build system
+# -------------------------
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+Debug/
+Release/
+x64/
+*.log
+
+# -------------------------
+# GLAD / compiled headers
+# -------------------------
+glad.c.o
+glad.o
+
+# -------------------------
+# Mac / system files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Optional: IDE project files
+# -------------------------
+*.idea/
+*.iml
+
+# -------------------------
+# Assets / temporary
+# -------------------------
+assets/*.tmp
+assets/*.bak
+
+# -------------------------
+# Other generated files
+# -------------------------
+*.exe.stackdump
+*.out
+*.exe
