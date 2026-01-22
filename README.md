@@ -1,5 +1,5 @@
 
-# 🐝 BeeHive3D Documentation
+# BeeHive3D Documentation
 
 ## Table of Contents
 1. [Project Overview](#project-overview)  
